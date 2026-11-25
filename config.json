@@ -1,0 +1,10 @@
+{
+  "wallpaper": "/sdcard/Pictures/torg-shop-wallpaper.png",
+  "grid": 24,
+  "tiles": [
+    { "pkg": "com.amazon.firetv.youtube.tv",     "x": 672, "y": 312, "w": 264 },
+    { "pkg": "com.amazon.firetv.youtube",        "x": 960, "y": 312, "w": 264 },
+    { "pkg": "com.amazon.firebat",               "x": 672, "y": 480, "w": 264 },
+    { "pkg": "com.apple.airplay.amazon.airplay", "x": 960, "y": 480, "w": 264 }
+  ]
+}

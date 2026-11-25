@@ -1,0 +1,9 @@
+# Build output
+out/
+
+# Signing key and its password — never commit these. Each builder generates their own.
+keystore/
+*.jks
+*.keystore
+
+.DS_Store
